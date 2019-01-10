@@ -5,7 +5,7 @@
 ## How to run this app 
 
 ... please follow the instructon below: 
-
+`git clone...`
     `cd server`
      `npm install`
      `node server`
@@ -14,5 +14,4 @@
      `cd frontend`
      `npm install`
      `npm start`
-
-[follow me on Github and clone the project](https://github.com/Abdulwasa)
+  
